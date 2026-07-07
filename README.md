@@ -1,4 +1,4 @@
-# SpamDetection_Using_MachineLearning
+# Accurate Spam Detection using Machine Learning
 
 Spam Detection API
 This project provides a simple REST API to detect spam messages using a machine learning model (Naive Bayes) trained on email data. The backend is built with Flask and uses scikit-learn for natural language processing and classification.
